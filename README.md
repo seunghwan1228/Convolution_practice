@@ -1,1 +1,2 @@
-# Convolution_practice
+# Conv Neural Network
+# ImageDataGenerator
